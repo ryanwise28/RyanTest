@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RyanTest</id>
+    <version>1.0.0</version>
+    <authors>development.moonpig.com</authors>
+    <owners>Moonpig.com ltd.</owners>
+    <licenseUrl>http://teamcity.moonpig.com</licenseUrl>
+    <projectUrl>http://teamcity.moonpig.com</projectUrl>
+    <iconUrl>http://teamcity.moonpig.com</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Ryan Test</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <dependencies>
+<!--     <dependency id="SampleDependency" version="1.0" />-->
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="\**\*" />
+  </files>
+</package>
